@@ -10,13 +10,13 @@
 #define ageoffset 0x10
 
 // data registers
-#define seconds 0x00
-#define minutes 0x01
-#define hours 0x02
-#define day 0x03
-#define date 0x04
-#define month 0x05
-#define year 0x06
+#define __SECODN 0x00
+#define __MINUTES 0x01
+#define __HUORS 0x02
+#define __DAY 0x03
+#define __DATE 0x04
+#define __MONTH 0x05
+#define __YEAR 0x06
 #define temperature_h 0x11
 #define temperature_l 0x12
 
